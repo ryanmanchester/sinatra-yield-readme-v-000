@@ -1,4 +1,4 @@
-require 'shotgun'
+
 class Application < Sinatra::Base
 
   get '/' do
